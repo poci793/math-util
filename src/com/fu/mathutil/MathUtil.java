@@ -16,6 +16,10 @@ public class MathUtil {
     public static void main(String[] args) {
         long result=MathUtil1.getFactorial(5);
         System.out.println(result);
+        long n1=MathUtil1.getFactorial(10);
+        //them code 9:52PM
+        System.out.println(n1);
+        System.out.println(MathUtil1.getFactorial(6));
     }
     
 }
